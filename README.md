@@ -1,7 +1,5 @@
 ## PGP public key
 
----
-
 My current PGP public Key - feel free to use when contacting me.
 Valid until February 2021.
 
